@@ -68,3 +68,9 @@ ipch/
 *.scc
 *.cachefile
 *.jpg
+*.png
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
